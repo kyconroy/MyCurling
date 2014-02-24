@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GameStateScript.cs">
+    <Files>
+      <File FileName="..\SpaceShooter\Assets\Quit.cs" Line="11" Column="2" />
+      <File FileName="Assets\StoneBehavior.cs" Line="23" Column="52" />
+      <File FileName="Assets\GameStateScript.cs" Line="14" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
